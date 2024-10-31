@@ -25,3 +25,5 @@ cd ARP-Scanner
 Usage
 Run the script with the following command:
 python3 arp_scanner.py
+
+credits: https://github.com/davidbombal/red-python-scripts/blob/main/lanscan_arp.py
