@@ -20,7 +20,7 @@ Python 3.x
 Scapy library (for packet crafting and network communication)
 Installation:
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/ARP-Scanner.git
+git clone link
 cd ARP-Scanner
 Usage
 Run the script with the following command:
